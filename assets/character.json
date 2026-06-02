@@ -1,0 +1,9 @@
+{
+  "rightarm": "[BASE64_STRING_REQUIRED]",
+  "leftarm": "[BASE64_STRING_REQUIRED]",
+  "body": "[BASE64_STRING_REQUIRED]",
+  "leftleg": "[BASE64_STRING_REQUIRED]",
+  "rightleg": "[BASE64_STRING_REQUIRED]",
+  "crutch": "[BASE64_STRING_REQUIRED]",
+  "direction": "R/L"
+}
