@@ -2,8 +2,6 @@
 
 A Crossy Road-inspired endless arcade game built with vanilla JavaScript, featuring multiple rendering backends, custom characters, and progressive difficulty scaling. Play it directly in your browser -- no build step, no dependencies.
 
-> **Live Demo:** [GitHub Pages](https://HEILValkyrie.github.io/MovingRoad/) 
-
 ---
 
 ## How to Play
